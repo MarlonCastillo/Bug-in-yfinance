@@ -1,7 +1,7 @@
 # Bug-in-yfinance
 Explanation and code of the bug in python
 
-I have a problem using yf.download in python as it downloads different range of records from 3 different computers and locations. I explain in more detail, suppose that today is September 23 and that in all cases and imported yfinance as yf (import yfinance as yf), I download the TSLA data for today:
+I have a problem using yf.download in python as it downloads different range of records from 3 different computers and locations. I explain in more detail, suppose that today is September 23 and that in all cases and imported yfinance as yf (```import yfinance as yf```), I download the TSLA data for today:
 
 **1. This is the result of a computer using spyder on windows 11 located in Spain:**
 ```
